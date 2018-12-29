@@ -1,7 +1,7 @@
 # Alloy 4.2 For MacOS
 
 ## Sumnmary
-This repository allows us run Alloy 4.2 on MacOS Mojave and other releases.
+This repository allows us run [Alloy](http://alloytools.org/) 4.2 on MacOS Mojave and other releases. This is a workaround to the problem described in this [issue](https://github.com/AlloyTools/org.alloytools.alloy/issues/64).
 
 ## Instructions
 
